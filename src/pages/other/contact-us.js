@@ -52,7 +52,7 @@ function contactUs() {
                     <span>Phone:</span> 0123456789
                   </p>
                   <p>
-                    <span>Mail:</span> info.deercreative@gmail.com
+                    <span>Mail:</span> info.E-shoper@gmail.com
                   </p>
                 </div>
               </Col>

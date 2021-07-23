@@ -20,7 +20,7 @@ export default function TopNavOne({ containerFluid }) {
             <ul>
               <li>
                 <i className="fas fa-envelope" />
-                info.deercreative@gmail.com
+                info.E-shoper@gmail.com
               </li>
               <li>
                 <i className="fas fa-phone-alt" />
